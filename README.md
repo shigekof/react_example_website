@@ -1,2 +1,2 @@
 # react_example_website
-This is the example website developed with React.js.
+This is the sample single page web application developed in React.js. This application is hosted at https://judo-nz.firebaseapp.com/.
